@@ -1,0 +1,22 @@
+.left-nav {
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+.left-nav .left-nav-link {
+  height: 80px;
+  background: #002140;
+  display: flex;
+  align-items: center;
+}
+.left-nav .left-nav-link .left-nav-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0 10px 0 40px;
+}
+.left-nav .left-nav-link h1 {
+  line-height: 80px;
+  margin-bottom: 0;
+  color: white;
+}

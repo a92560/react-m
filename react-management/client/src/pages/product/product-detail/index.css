@@ -1,0 +1,11 @@
+.detail .detail-left {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-right: 10px;
+}
+.detail .detail-img {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+  border: 1px solid #000;
+}
